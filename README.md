@@ -1,4 +1,3 @@
 **Project Purpose:** OPEN NSFW is an application that I integrated the education model into the SwiftUI project. This mobile application detects the sexuality ratio of the image uploaded by the user and returns a ratio to us. Depending on this ratio, we can apply processes such as image censorship or blocking to the image and increase the usage age range of our own mobile applications. 
 
-<img width="400" height="700"  src="[https://github.com/muhammedgmbsg/Il_Bazinda_Demografik_Analiz_Veri_Gorsellestirme/assets/95706061/14a6bd1d-94d6-4937-8574-d1ab9d0817ec](https://github.com/muhammedgmbsg/NFSW_Detector/assets/95706061/72d1d8e5-2d9c-4386-866a-8cb2b7a41fd9">
-<img width="400" height="700"  src="[https://github.com/muhammedgmbsg/NFSW_Detector/assets/95706061/bc7c17af-a396-4e3e-8d32-08b0bd509dd3">
+![PNG](https://github.com/muhammedgmbsg/NFSW_Detector/assets/95706061/d5346b87-266a-40e0-95ca-2c9960d66e78)
